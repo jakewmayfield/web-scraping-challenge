@@ -5,7 +5,7 @@ In this assignment, I build a web application that scrapes various websites for 
 
 ### NASA Mars News
 
-* Scrape the https://redplanetscience.com/ and collect the latest News Title and Paragraph Text.
+* Scrape https://redplanetscience.com/ and collect the latest News Title and Paragraph Text.
 
 ### JPL Mars Space Images - Featured Image
 
